@@ -1,4 +1,4 @@
-# A-Gift-Shop-Case-Study (Excel Project)
+# A Gift Shop Case Study (Excel Project)
 Excel dashboard analyzing retail sales, customer behavior, and product trends with pivot tables &amp; charts.
 
 
