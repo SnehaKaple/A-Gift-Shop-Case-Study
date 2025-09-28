@@ -51,6 +51,6 @@ Below are snapshots of the Excel dashboard (for quick viewing).
 
 
 ##  Author
-**(Sneha Kaple)**  
+**Sneha Kaple**  
 B.Tech in Artificial Intelligence | Data Analytics Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/sneha-kaple-analytics/) | [GitHub](https://github.com/SnehaKaple) 
